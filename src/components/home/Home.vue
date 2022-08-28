@@ -47,7 +47,7 @@ export default {
 
     return {
 
-      titulo: 'Alurapic', 
+      titulo: 'Fotos', 
       fotos: [], 
       filtro: '',
       mensagem: ''
